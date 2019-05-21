@@ -2,3 +2,4 @@ PAL resolusi 2019:
 1.Cocobi tes 1
 2.Cocobi tes 2
 dst...
+edit 1
